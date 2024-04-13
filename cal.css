@@ -33,7 +33,7 @@ input{
     margin-bottom: 30px;
 }
 input::placeholder{
-    color: cyan;
+    color:red;
 }
 .btn-container{
     display: flex;
